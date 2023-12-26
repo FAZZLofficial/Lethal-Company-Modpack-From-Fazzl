@@ -1,6 +1,6 @@
 {
     "name": "Modpack_From_Fazzl",
-    "version_number": "1.0.5",
+    "version_number": "1.0.6",
     "website_url": "https://github.com/FAZZLofficial/Lethal-Company-Modpack-From-Fazzl",
     "description": "Hey this is my Modpack.",
     "dependencies": [
@@ -29,7 +29,7 @@
     "FutureSavior-Hold_Scan_Button-1.1.1",
     "an0nymooose-An0n_Patches-1.0.3",
     "Evaisa-LethalThings-0.8.8",
-    "x753-More_Suits-1.4.1",
+    "AlexCodesGames-AdditionalSuits-1.1.3",
     "Suskitech-AlwaysHearActiveWalkies-1.4.3",
     "HolographicWings-LethalExpansion-1.3.5",
     "sfDesat-Orion-0.6.1"
