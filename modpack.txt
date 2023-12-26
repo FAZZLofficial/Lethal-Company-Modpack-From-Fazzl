@@ -21,5 +21,4 @@
 "FlipMods-ReservedWalkieSlot-1.5.0",
 "joe1359-LethalExtras-1.0.4",
 "FutureSavior-Hold_Scan_Button-1.1.1",
-"matsuura-HealthMetrics-1.0.2",
 "an0nymooose-An0n_Patches-1.0.3"
