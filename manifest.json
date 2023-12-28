@@ -1,6 +1,6 @@
 {
     "name": "Modpack_From_Fazzl",
-    "version_number": "1.0.7",
+    "version_number": "1.0.8",
     "website_url": "https://github.com/FAZZLofficial/Lethal-Company-Modpack-From-Fazzl",
     "description": "Hey this is my Modpack.",
     "dependencies": [
@@ -44,6 +44,8 @@
     "Sv_Matt-HideModList-1.0.1",
     "SYXZ-RadioNoPower-1.0.0",
     "anormaltwig-LateCompany-1.0.7",
-    "MegaPiggy-BuyableShotgun-1.0.0"
+    "MegaPiggy-BuyableShotgun-1.0.0",
+    "ShaosilGaming-FlashlightFix-1.0.4",
+    "blink9803-DimmingFlashlights-1.0.1"
     ]
 }
